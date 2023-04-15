@@ -1,0 +1,11 @@
+.Slider
+{
+	padding: 1rem;
+	width: 1000px;
+	height: 600px;
+	box-shadow: 20px 20px 50px 15px rgb(154, 153, 153);
+}
+img{
+	width: 1000px;
+	height: 600px;
+}
